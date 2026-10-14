@@ -14,4 +14,4 @@ tomos_github_document_id: 47b75968-520e-4942-b209-bcff6f7278b9
 
 公開作品
 
-- [拡散](https://shiroe-rei.github.io/shiroe-rei/tags/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88/)
+- [拡散](https://shiroe-rei.github.io/shiroe-rei/%E6%8B%A1%E6%95%A3/)
