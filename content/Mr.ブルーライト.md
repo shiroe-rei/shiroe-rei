@@ -1,6 +1,12 @@
 ---
+title: Mr.ブルーライト
 date: 2026-10-21
+description: 
+tags:
+  - ショートショート
+draft: false
 published: 2026-10-21T07:01:49+00:00
+tomos_github_document_id: 63cd8ab7-87ae-4368-8372-04b865df6bf8
 ---
 
 
