@@ -31,6 +31,8 @@ tomos_github_document_id: 47b75968-520e-4942-b209-bcff6f7278b9
 
 ### [白江書房日記](https://shiroe-rei.hatenablog.com/)
 
+主に日常中心のブログです。
+
 主なカテゴリリンク
 
 - 📓[日記](https://shiroe-rei.hatenablog.com/archive/category/%E6%97%A5%E8%A8%98)( ほぼ毎日更新)
