@@ -25,21 +25,3 @@ tomos_github_document_id: 47b75968-520e-4942-b209-bcff6f7278b9
 [小説](https://shiroe-rei.github.io/shiroe-rei/tags/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88/)
 
 創作ショートショートを載せてます。
-
-
-
-
-
-
-### [白江書房日記](https://shiroe-rei.hatenablog.com/)
-
-主に日常中心のブログです。
-
-主なカテゴリリンク
-
-- 📓[日記](https://shiroe-rei.hatenablog.com/archive/category/%E6%97%A5%E8%A8%98)( ほぼ毎日更新)
-- 📃[雑記](https://shiroe-rei.hatenablog.com/archive/category/%E9%9B%91%E8%A8%98)(たまに更新)
-  - 🎵[音楽レビュー](https://shiroe-rei.hatenablog.com/archive/category/%E9%9F%B3%E6%A5%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)
-  - 🎥[映画レビュー](https://shiroe-rei.hatenablog.com/archive/category/%E6%98%A0%E7%94%BB%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)
-  - ✒️[obsidian](https://shiroe-rei.hatenablog.com/archive/category/obsidian)
-- 📗[読書](https://shiroe-rei.hatenablog.com/archive/category/%E8%AA%AD%E6%9B%B8)(月末更新)
