@@ -29,6 +29,9 @@ tomos_github_document_id: 47b75968-520e-4942-b209-bcff6f7278b9
 
   オリジナルのショートショートを載せてます。
 
+##### 雑記
+
+
 - [日記](https://shiroe-rei.github.io/shiroe-rei/%E6%97%A5%E8%A8%98%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9/)
 
 日常などを書いています。
