@@ -9,7 +9,7 @@ tomos_github_document_id: 6127da4b-3265-4495-81c3-148edba76e1a
 
 ## このサイトについて
 
-主にショートショートを置いています。
+主にショートショートを中心にいろんな文を置いています。
 
 
 
@@ -25,5 +25,4 @@ webにショートショートを投稿しながらたまに公募に挑戦し�
 
 
 
-ブログ：https://shiroe-rei.hatenablog.com/
 bluesky:[@shiroe-rei.bsky.social](https://bsky.app/profile/shiroe-rei.bsky.social)
