@@ -50,7 +50,7 @@ if (is_dir($tomosBrandingSource)) {
 return [
     'site' => [
         'name' => '白江書房',
-        'description' => '主にショートショート',
+        'description' => 'ショートショート中心の雑文サイト',
         'url' => 'https://' . $owner . '.github.io',
         'base_path' => $basePath,
         'language' => 'ja',
