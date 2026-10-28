@@ -23,6 +23,8 @@ tomos_github_document_id: 47b75968-520e-4942-b209-bcff6f7278b9
   
 #### サイトマップ
 
-[小説](https://shiroe-rei.github.io/shiroe-rei/tags/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88/)
+##### 小説
 
-創作ショートショートを載せてます。
+- [ショートショート](https://shiroe-rei.github.io/shiroe-rei/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9/)
+
+  オリジナルのショートショートを載せてます。
