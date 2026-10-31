@@ -21,17 +21,15 @@ tomos_github_document_id: 47b75968-520e-4942-b209-bcff6f7278b9
 -   2026-10-28 [お似合いの二人](https://shiroe-rei.github.io/shiroe-rei/%E3%81%8A%E4%BC%BC%E5%90%88%E3%81%84%E3%81%AE%E4%BA%8C%E4%BA%BA/)←NEW!
 
   
-#### サイトマップ
+#### メニュー
 
 ##### 小説
 
 - [ショートショート](https://shiroe-rei.github.io/shiroe-rei/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9/)
 
-  オリジナルのショートショートを載せてます。
+  
 
 ##### 雑記
 
 
 - [日記](https://shiroe-rei.github.io/shiroe-rei/%E6%97%A5%E8%A8%98%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9/)
-
-日常などを書いています。
